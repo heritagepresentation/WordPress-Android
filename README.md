@@ -1,6 +1,3 @@
-Hello World
-Hello World2
-Hello World345
 # WordPress for Android #
 
 [![Build Status](https://travis-ci.org/wordpress-mobile/WordPress-Android.svg?branch=develop)](https://travis-ci.org/wordpress-mobile/WordPress-Android)
